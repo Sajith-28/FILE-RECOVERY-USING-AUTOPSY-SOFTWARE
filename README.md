@@ -1,6 +1,6 @@
 # FILE-RECOVERY-USING-AUTOPSY-SOFTWARE
-## Name : AANKARSH
-## Reg No : 212223233001
+## Name : SAJITH AHAMED F
+## Reg No : 212223240144
 ## AIM
 To use **Autopsy Digital Forensics Tool** to retrieve deleted files from a disk image.
 
